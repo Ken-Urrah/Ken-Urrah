@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ken-Urrah
-- 👀 I’m interested in software engineering (back end Web Dev)
-- 🌱 I’m currently learning back end at ALX
+- 👀 I’m interested in Data Science and everything related
+- 🌱 I’m currently learning Data Science at ALX
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me https://www.linkedin.com/in/urrah-k-a8a68a132/
 - 😄 Pronouns: He, Him 
